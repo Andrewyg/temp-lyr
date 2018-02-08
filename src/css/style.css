@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'handwrite'; /*a name to be used later*/
-    src: url('/src/fonts/Take off&Good luck Gentle and graceful Cute Chinese Font – Traditional Chinese Font Fonts.ttf'); /*URL to font*/
+    src: url('../fonts/Take off&Good luck Gentle and graceful Cute Chinese Font – Traditional Chinese Font Fonts.ttf'); /*URL to font*/
 }
 @font-face {
     font-family: 'cute'; /*a name to be used later*/
-    src: url('/src/fonts/SentyTEA.ttf'); /*URL to font*/
+    src: url('../fonts/SentyTEA.ttf'); /*URL to font*/
 }
 
 .cutever {
