@@ -13,3 +13,10 @@
 .handwrittenver {
     font-family: 'handwrite';
 }
+
+.cutever pre {
+    font-family: 'cute';
+}
+.handwrittenver pre {
+    font-family: 'handwrite';
+}
